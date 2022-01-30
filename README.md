@@ -1,3 +1,3 @@
 # dark_riders_line_follower_robot
-# team mebers 
+# team members 
 # ANURAG SHARMA , ADITYA VIKRAM SINGH , ABHIMANYU PRAJAPATI , AKASH GUPTA
